@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #b095e7;
+    background-image: linear-gradient(#b095e7,#523c7e);
 }
 
 a {
@@ -21,6 +21,10 @@ p {
 
 h1 {
     font-size: 250%;
+}
+
+h2 {
+font-size: 175%;
 }
 
 /*Header & Nav*/
@@ -41,10 +45,41 @@ nav ul {
 }
 
 /*Main Content*/
-.main{
-display: flex;
+.about-me{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+    position: relative;
+    padding: 20px;
+}
+
+.about-me-text{
+    display: block;
+    padding: 20px;
+}
+
+.about-me-text li {
+    padding: 20px;
 }
 
 .img {
-    width: 400px;
+    width: 300px;
+    border-radius: 30px;
+    justify-content: center;
+}
+
+.my-work{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+    position: relative;
+    padding: 20px;
+}
+
+.thumb-nails{
+    
+}
+
+.contact-me{
+
 }

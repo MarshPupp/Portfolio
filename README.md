@@ -29,7 +29,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 
 ## Links ##
-Link to repository:
+Link to repository: https://github.com/MarshPupp/Portfolio
 
 Link to deployed site:
 ## Deployed Images ##

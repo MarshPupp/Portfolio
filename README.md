@@ -26,16 +26,21 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ~~~
 ## Completed Tasks ##
-
+* Created Portfolio Website
+* Created Navbar with name and links to content
+* Created UI scroll system
+* Created interactive thumbnails of previous work that link to the deployed site
+* Created responsive UI
 
 ## Links ##
 Link to repository: https://github.com/MarshPupp/Portfolio
 
-Link to deployed site:
+Link to deployed site: https://marshpupp.github.io/Portfolio/
 ## Deployed Images ##
 
 
 
 ## Acknowledgements ##
 * MDN docs were referenced (https://developer.mozilla.org/en-US/)
+* W3Schools were referenced (https://www.w3schools.com/css/default.asp)
 * Chat GPT for Read Me format and starter code

@@ -38,7 +38,8 @@ Link to repository: https://github.com/MarshPupp/Portfolio
 Link to deployed site: https://marshpupp.github.io/Portfolio/
 ## Deployed Images ##
 
-
+![First image of deployed site](./assets/images/portfolioSC-1.png)
+![Second image of deployed site](./assets/images/portfolioSC-2.png)
 
 ## Acknowledgements ##
 * MDN docs were referenced (https://developer.mozilla.org/en-US/)
